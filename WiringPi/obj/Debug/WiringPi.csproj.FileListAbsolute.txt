@@ -1,0 +1,10 @@
+C:\Users\mifma\Documents\Research\WiringPi.Net-master\WiringPi\obj\Debug\WiringPi.csprojResolveAssemblyReference.cache
+C:\Users\mifma\Documents\Research\WiringPi.Net-master\WiringPi\bin\Debug\WiringPi.dll
+C:\Users\mifma\Documents\Research\WiringPi.Net-master\WiringPi\bin\Debug\WiringPi.pdb
+C:\Users\mifma\Documents\Research\WiringPi.Net-master\WiringPi\obj\Debug\WiringPi.dll
+C:\Users\mifma\Documents\Research\WiringPi.Net-master\WiringPi\obj\Debug\WiringPi.pdb
+C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\bin\Debug\WiringPi.dll
+C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\bin\Debug\WiringPi.pdb
+C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\obj\Debug\WiringPi.csprojResolveAssemblyReference.cache
+C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\obj\Debug\WiringPi.dll
+C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\obj\Debug\WiringPi.pdb
