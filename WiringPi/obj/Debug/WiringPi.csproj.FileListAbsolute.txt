@@ -8,3 +8,8 @@ C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\bin\Debug\WiringPi.pdb
 C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\obj\Debug\WiringPi.csprojResolveAssemblyReference.cache
 C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\obj\Debug\WiringPi.dll
 C:\Users\mifma\Documents\Research\MonoWiringPi\WiringPi\obj\Debug\WiringPi.pdb
+C:\Users\mifma\Documents\Research\Mono-WiringPi\WiringPi\bin\Debug\WiringPi.dll
+C:\Users\mifma\Documents\Research\Mono-WiringPi\WiringPi\bin\Debug\WiringPi.pdb
+C:\Users\mifma\Documents\Research\Mono-WiringPi\WiringPi\obj\Debug\WiringPi.csprojResolveAssemblyReference.cache
+C:\Users\mifma\Documents\Research\Mono-WiringPi\WiringPi\obj\Debug\WiringPi.dll
+C:\Users\mifma\Documents\Research\Mono-WiringPi\WiringPi\obj\Debug\WiringPi.pdb

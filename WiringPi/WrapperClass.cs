@@ -109,9 +109,9 @@ namespace WiringPi
 
             [DllImport("libwiringPi.so", EntryPoint = "softPwmWrite")]
             public static extern void Write(int pin, int value);
-
+            /*
             [DllImport("libwiringPi.so", EntryPoint = "softPwmStop")]
-            public static extern void Stop(int pin);
+            public static extern void Stop(int pin);*/
         }
 
         /// <summary>

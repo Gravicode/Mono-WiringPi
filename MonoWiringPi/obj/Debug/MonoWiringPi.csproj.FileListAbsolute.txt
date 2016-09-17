@@ -6,3 +6,11 @@ C:\Users\mifma\Documents\Research\MonoWiringPi\MonoWiringPi\bin\Debug\WiringPi.p
 C:\Users\mifma\Documents\Research\MonoWiringPi\MonoWiringPi\obj\Debug\MonoWiringPi.csprojResolveAssemblyReference.cache
 C:\Users\mifma\Documents\Research\MonoWiringPi\MonoWiringPi\obj\Debug\MonoWiringPi.exe
 C:\Users\mifma\Documents\Research\MonoWiringPi\MonoWiringPi\obj\Debug\MonoWiringPi.pdb
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\bin\Debug\MonoWiringPi.exe.config
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\obj\Debug\MonoWiringPi.exe
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\obj\Debug\MonoWiringPi.pdb
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\bin\Debug\MonoWiringPi.exe
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\bin\Debug\MonoWiringPi.pdb
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\bin\Debug\WiringPi.dll
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\bin\Debug\WiringPi.pdb
+C:\Users\mifma\Documents\Research\Mono-WiringPi\MonoWiringPi\obj\Debug\MonoWiringPi.csprojResolveAssemblyReference.cache
